@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b99a1ae6-d73f-451d-e987-c72883f0fefd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Database, Internet, and Systems Integration Technologies",
+  "course_description": "This course addresses information technology fundamentals, including project management and software processes, data modeling, UML, relational databases and SQL. Topics covered include internet technologies, such as XML, web services, and service-oriented architectures. This course provides an introduction to security and presents the fundamentals of telecommunications and includes a project that involves requirements / design, data model, database implementation, website, security and data network. No prior programming experience required.\n",
+  "department_numbers": [
+    "1",
+    "ESD"
+  ],
+  "extra_course_numbers": "ESD.264J",
+  "primary_course_number": "1.264J",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Programming Assignments with Examples",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
